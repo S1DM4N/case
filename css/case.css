@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Press+Start+2P&display=swap');
+*, .lnk, h1, p {
+    font-family: 'Poppins', sans-serif;
+    color: #3A5162;
+}
+.ln::after {
+    content: " / ";
+}
+.nm_cs {
+    margin-bottom: 38px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+}
+.fld{
+    max-width: 1440px;
+}
+.lnk:hover {
+    color: #777d81;
+}
+.nav a, .nav p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
+.lft {
+    margin-right: 113px;
+}
+.mtp {
+    margin: 0 0 64px 0;
+}
+.mbtm {
+    margin: 0 0 225px 0;
+}
+.cs {
+    margin-bottom: 225px;
+}
+.crsl {
+    margin-bottom: 150px;
+}
+.fld p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 34px;
+}
+.fld .smll {
+    font-size: 12px;
+    margin-bottom: 112px;
+}
+.fld h1 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 24px;
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Press+Start+2P&display=swap');
+*, .lnk {
+    font-family: 'Poppins', sans-serif;
+    color: #3A5162;
+}
+.nm_cs {
+    margin-bottom: 38px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+}
+p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+}
+.container-fluid {
+    max-width: 1440px;
+}
+.lnk:hover {
+    color: #777d81;
+}
+.nav a, .nav p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
+.lft {
+    margin-right: 113px;
+}
+.mtp {
+    margin: 0 0 64px 0;
+}
+.mbtm {
+    margin: 0 0 225px 0;
+}
+.cs {
+    margin-bottom: 225px;
+}
+.ln::after {
+    content: " / ";
+}
